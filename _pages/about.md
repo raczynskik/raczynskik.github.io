@@ -24,6 +24,4 @@ From success stories to lessons learned from failures, I'll be sharing it all. B
 
 So buckle up and get ready for an exciting journey into the world of IT project quality assurance!
 
-<br>
-<br>
----
+
